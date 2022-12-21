@@ -41,3 +41,6 @@ git remote -v
 
 #mengirim file ke server git dan brach git
 git push -u origin main
+
+#buat keygen dan tambah ke seting git
+ssh-keygen -t rsa -C samuelchristoper555@gmail.com
