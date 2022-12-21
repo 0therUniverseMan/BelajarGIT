@@ -36,5 +36,8 @@ git add .
 
 #copy tulisan seprti ini di git dan paste di gitCMD git remote add origin https://github.com/Samuel-08/Full_Stack.git
 
-#lihat status remote di git
+#lihat status versi remote di git
 git remote -v
+
+#mengirim file ke server git dan brach git
+git push -u origin main
