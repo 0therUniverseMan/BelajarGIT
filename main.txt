@@ -44,3 +44,10 @@ git push -u origin main
 
 #buat keygen dan tambah ke seting git
 ssh-keygen -t rsa -C samuelchristoper555@gmail.com
+
+#liat list log yg sudah fix
+git log --pretty=oneline
+
+#hapus commit
+git reset --soft 3103f4924198e1f8dad4ac1297289a450d188037
+
