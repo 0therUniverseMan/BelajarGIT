@@ -26,7 +26,7 @@ git commmit -m "tulis isipesan buka dengan tanda petik ditutup tanda petik"
 #mlihat apakah git sudah ditambahkan atau belum
 git status
 
-#melihat histori
+#melihat histori perubahan commit git
 git log
 
 #menambahkan semua kedalam git
