@@ -5,4 +5,4 @@
 ![Showing additional individual stats](https://github-readme-stats.vercel.app/api?username=Samuel-08&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Samuel-08)](https://github.com/Samuel-08/belajarGIT)
+ [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Samuel-08/belajarGIT)
